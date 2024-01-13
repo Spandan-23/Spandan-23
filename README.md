@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi 👋
 
 <!--
 **Spandan-23/Spandan-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am Spandan Kukade, Sophomore in Computer Science and Engineering at Indian Institute of Technology, Delhi
