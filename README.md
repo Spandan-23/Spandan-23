@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I am Spandan Kukade, Sophomore in Computer Science and Engineering at Indian Institute of Technology, Delhi
+I am Spandan Kukade, Junior in Computer Science and Engineering at the Indian Institute of Technology, Delhi
